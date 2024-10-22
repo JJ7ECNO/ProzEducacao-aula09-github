@@ -1,9 +1,1 @@
 Aula de GitHub
-
-PASSOS:
-git init
-git add .
-git commit -m "mensagem"
-git branch -M main
-git remote add origin https://github.com/JJ7ECNO/ProzEducacao-aula09-github.git
-git push -u origin main

@@ -1,0 +1,5 @@
+Tríade para seguir:
+
+git add . 
+git commit -m "mensagem"
+git push
